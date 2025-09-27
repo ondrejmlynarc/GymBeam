@@ -1,0 +1,6 @@
+polars
+prefect
+numpy
+streamlit
+pandas
+plotly
